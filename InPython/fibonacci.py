@@ -1,3 +1,5 @@
+#Finds nth fibonacci number
+#Time complexity is O(2^n)
 def fib(n):
     if n <= 2:
         return 1

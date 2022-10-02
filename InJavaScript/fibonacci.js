@@ -1,4 +1,5 @@
 //Finds nth fibonacci number
+//Time complexity is O(2^n)
 
 const prompt = require("prompt-sync")(); //importing the prompt-sync as
 
